@@ -3,7 +3,7 @@ package pacman;
 import javax.swing.*;
 import java.awt.*;
 
-public class Point extends Thread {
+public class Point {
     private int x;
     private int y;
     private int size;
